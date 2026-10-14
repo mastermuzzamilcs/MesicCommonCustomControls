@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mesix Custom Controls (`E:\Work\Mesix_Common\custom_control`)
 
 Standalone Angular library: **`@mesix/custom-control`**
@@ -10,3 +11,7 @@ npm run build
 ```
 
 Output: `dist/mesix-custom-control`
+=======
+# MesicCommonCustomControls
+MesicCommonCustomControls
+>>>>>>> b0db9697b92248c14a18ae2294578f377d788612
